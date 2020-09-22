@@ -4,7 +4,7 @@ import numpy as np
 import string
 
 import os
-from scikit_roughsets.rs_reduction import RoughSetsSelector
+#from scikit_roughsets.rs_reduction import RoughSetsSelector
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
 
